@@ -9,7 +9,7 @@ Fullstack Web Developer with a background in the music industry. Interested in M
 - 💬 Ask me about exciting music technology.
 - 📫 How to reach me: https://www.linkedin.com/in/al-abbas-14401b1b8/
 - 😄 Pronouns: He/Him
-- 🍞 Fun fact: I love baking bread and bikes!
+- 🍞 Fun fact: I love bikes and baking bread!
 
 
 <!--
