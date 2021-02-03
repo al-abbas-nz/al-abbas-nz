@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**al-abbas-nz/al-abbas-nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Fullstack Web Developer with a background in the music industry. Interested in Music Tech, and e-commerce/inventory management solutions for businesses.
 
 - 🔭 I’m currently working on web development projects that reinforce and push my learning forward.
@@ -13,4 +10,10 @@ Fullstack Web Developer with a background in the music industry. Interested in M
 - 📫 How to reach me: https://www.linkedin.com/in/al-abbas-14401b1b8/
 - 😄 Pronouns: He/Him
 - 🍞 Fun fact: I love baking bread and bikes!
+
+
+<!--
+**al-abbas-nz/al-abbas-nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
