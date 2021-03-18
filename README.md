@@ -9,7 +9,6 @@ Fullstack Web Developer with a background in the music industry. Interested in M
 - 😄 Pronouns: He/Him
 - 🍞 Fun fact: I love bikes and baking bread!
 - 📫 How to reach me: https://www.linkedin.com/in/al-abbas-14401b1b8/
-- 🥐 Portfolio: https://alabbas.netlify.app/
 
 <!--
 **al-abbas-nz/al-abbas-nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
